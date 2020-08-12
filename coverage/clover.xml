@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1597175127144" clover="3.2.0">
+  <project timestamp="1597175127144" name="All files">
+    <metrics statements="26" coveredstatements="26" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2" elements="36" coveredelements="36" complexity="0" loc="26" ncloc="26" packages="1" files="1" classes="1"/>
+    <file name="validator.js" path="C:\Users\Lorenna\LIM013-card-validation\src\validator.js">
+      <metrics statements="26" coveredstatements="26" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="9" count="21" type="stmt"/>
+      <line num="10" count="21" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="9" type="stmt"/>
+      <line num="12" count="9" type="stmt"/>
+      <line num="15" count="21" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="18" count="21" type="stmt"/>
+      <line num="21" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="28" count="3" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="30" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="26" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="8" type="stmt"/>
+      <line num="35" count="18" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="41" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>

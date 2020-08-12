@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding:aut0px;
+}
+
+
+body{
+    width: 1400px;
+    height: 100%;
+    background-color: rgb(195, 233, 248);
+    margin-bottom: 0;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 1px  rgba(0,0,0,0.5);
+    
+}
+#encabezado{
+    background: rgb(209, 236, 247);
+    width: 1300px;
+    margin-left: 15px;
+   
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: black;
+}
+nav{
+
+    font-size: 30px;
+    color: black;
+    margin-left: 15px;
+}
+#contenedor{
+    background: rgb(132, 210, 241);
+    width: 1300px;
+    height: 800px;
+    margin-bottom: 0;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 1px  rgba(0,0,0,0.5);
+    margin-left: 15px;
+  }
+ 
+ 
+  #imagen1{
+    width: 280px;
+    height: 320px;
+    background:whitesmoke ;
+    color:blue;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 1px  rgba(0,0,0,0.5);
+    float: left;
+    margin-bottom: 60px;
+    margin-right: 80px;
+    margin-left: 130px;
+}
+#imagen2{
+    width: 280px;
+    height: 320px;
+    background:whitesmoke ;
+    color:blue;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 1px  rgba(0,0,0,0.5);
+    float: left;
+    margin-right: 80px;
+}
+#imagen3{
+    width: 280px;
+    height: 320px;
+    background:whitesmoke ;
+    color:blue;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 1px  rgba(0,0,0,0.5);
+    float: left;
+    
+}
+#imagen4{
+    width: 280px;
+    height: 320px;
+    background:whitesmoke ;
+    color:blue;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 1px  rgba(0,0,0,0.5);
+    float: left;
+    clear: both;
+    margin-right: 80px;
+    margin-left: 130px;
+    
+    
+}
+#imagen5{
+    width: 280px;
+    height: 320px;
+    background:whitesmoke ;
+    color:blue;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 1px  rgba(0,0,0,0.5);
+    float: left;
+    margin-right: 80px;
+    
+    
+}
+#imagen6{
+    width: 280px;
+    height: 320px;
+    background:whitesmoke ;
+    color:blue;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 1px  rgba(0,0,0,0.5);
+    float: left;
+    
+    
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: #2364d2;
+    border: #EAE8E8 ;
+    color:black;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 0px;
+  
+  }
+
+  button:hover{
+    background-color: #1850b1;
+    color: white;
+  }
+ 
+  h1{
+    color: blue;
+  }
+ .titulo{
+    color: blue;
+ }
+  h2{
+      color:blue;
+      font-size: 40px;
+      text-align: center;
+  }
+p{
+    color: black;
+   text-align: center;
+   text-justify: auto;
+   font-size: 25px;
+   margin-bottom: 10px;
+  
+}
+
